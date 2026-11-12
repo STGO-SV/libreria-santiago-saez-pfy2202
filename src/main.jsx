@@ -15,7 +15,7 @@ async function iniciarAplicacion() {
       console.error('Error al iniciar Mock Service Worker:', error)
       root.render(
         <main className="contenedor contenido">
-          <h1>Librería</h1>
+          <h1>BukStor</h1>
           <p role="alert">
             No se pudo iniciar el servicio simulado. Comprueba la instalación de
             MSW y vuelve a cargar la página.

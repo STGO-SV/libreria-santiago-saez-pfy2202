@@ -1,4 +1,4 @@
-# Librería
+# BukStor
 
 Desarrollo Frontend II (PFY2202) · Experiencia 2, Semana 4 · Forma B.
 

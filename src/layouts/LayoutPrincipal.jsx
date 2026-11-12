@@ -24,8 +24,8 @@ export default function LayoutPrincipal() {
       </a>
       <header className="encabezado">
         <div className="contenedor barra">
-          <Link className="marca" to="/" aria-label="Librería, inicio">
-            Librería
+          <Link className="marca" to="/" aria-label="BukStor, inicio">
+            BukStor
           </Link>
           <nav aria-label="Navegación principal">
             <ul className="menu">

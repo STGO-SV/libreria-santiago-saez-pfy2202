@@ -37,7 +37,7 @@ function renderizar(ruta) {
 
 test('inicio presenta navegación activa y un acceso a categorías', () => {
   const html = renderizar('/')
-  assert.match(html, /<h1 id="titulo-inicio">Librería<\/h1>/)
+  assert.match(html, /<h1 id="titulo-inicio">BukStor<\/h1>/)
   assert.match(html, /<a aria-current="page"[^>]*href="\/"[^>]*>Inicio<\/a>/)
   assert.match(html, /href="\/categorias"[^>]*>Ir a categorías<\/a>/)
 })
